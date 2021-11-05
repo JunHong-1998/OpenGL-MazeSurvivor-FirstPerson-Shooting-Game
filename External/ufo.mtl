@@ -1,0 +1,24 @@
+# Blender MTL File: 'ufo.blend'
+# Material Count: 2
+
+newmtl UFO_texture.001
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd ufo_diffuse.png
+
+newmtl UFO_texture2.001
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd ufo_diffuse2.png
